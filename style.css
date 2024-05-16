@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-align: justify;
+}
+
+#header,h1{
+    background-color: #870416;
+    margin-top: 0;
+    padding: 30px;
+    color: #ffff;
+}
+
+#menubar{
+    background-attachment: rgb(201, 200, 200);
+    padding: 10px;
+}
+
+#footer{
+    background-color: rgb(201, 200, 200);
+    padding: 20px;
+}
